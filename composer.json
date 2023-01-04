@@ -1,0 +1,17 @@
+{
+    "name": "nighteye1228/php_test_shopping",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nighteye1228\\PhpTestShopping\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nighteye1228",
+            "email": "victor70412@gmail.com"
+        }
+    ],
+    "require": {}
+}
